@@ -3,12 +3,18 @@ body{
 background-color:  #DFABEB;
 }
 h1{
-color: #e1f180;
+color: rgb(120, 245, 182);
 }
 h2{
-  color: #e1f180;
+  color: rgb(120, 245, 182);
 }
 
 h3{
-color: #e1f180;
+color: rgb(120, 245, 182);
+}
+li{
+  color: rgb(120, 245, 182);
+}
+p{
+  color: rgb(120, 245, 182);
 }
